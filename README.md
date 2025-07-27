@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi K</h1>
 <h3 align="center">Ideal for anyone passionate about analyzing, modeling, and visualizing real-world text data.</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/3209845f8f8b9a02f64e8b0c8c9cdbd8.gif" alt="Girl working on Data" align="center" width="100%"/>
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/011/315/482/non_2x/illustration-of-data-analysis-concepts-working-women-work-with-laptops-free-png.png" width="400" alt="Woman working with data">
+</p>
+
 
 - 📫 How to reach me: **vaishnavik1829@gmail.com**
 
